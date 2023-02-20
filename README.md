@@ -1,1 +1,1 @@
-# tictactoe
+# tictactoe HTML5 Game
